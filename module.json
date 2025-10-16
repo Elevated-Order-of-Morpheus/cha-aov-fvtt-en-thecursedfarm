@@ -43,5 +43,8 @@
       }
     }
   ],
-  "description": ""
+  "description": "",
+  "url": "https://github.com/Elevated-Order-of-Morpheus/cha-aov-fvtt-en-thecursedfarm",
+  "manifest": "https://github.com/Elevated-Order-of-Morpheus/cha-aov-fvtt-en-thecursedfarm/releases/latest/download/module.json",
+  "download": "hhttps://github.com/Elevated-Order-of-Morpheus/cha-aov-fvtt-en-thecursedfarm/releases/download/1.0.1/module.zip"
 }
