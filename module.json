@@ -1,0 +1,47 @@
+{
+  "id": "cha-aov-fvtt-en-thecursedfarm",
+  "title": "Age of Vikings® - The Cursed Farm",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Dangermouse",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packFolders": [
+    {
+      "name": "AoV The Cursed Farm |en",
+      "sorting": "m",
+      "color": "#169273",
+      "packs": [
+        "the-cursed-farm"
+      ],
+      "folders": []
+    }
+  ],    
+  "packs": [
+    {
+      "name": "the-cursed-farm",
+      "label": "The Cursed Farm",
+      "path": "packs/the-cursed-farm",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "aov",
+      "flags": {},
+      "compatibility": {
+        "minimum": "13.16"
+      }
+    }
+  ],
+  "description": ""
+}
