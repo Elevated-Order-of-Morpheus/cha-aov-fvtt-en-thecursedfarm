@@ -1,7 +1,7 @@
 {
   "id": "cha-aov-fvtt-en-thecursedfarm",
   "title": "Age of Vikings® - The Cursed Farm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -46,6 +46,5 @@
   "description": "",
   "url": "https://github.com/Elevated-Order-of-Morpheus/cha-aov-fvtt-en-thecursedfarm",
   "manifest": "https://github.com/Elevated-Order-of-Morpheus/cha-aov-fvtt-en-thecursedfarm/releases/latest/download/module.json",
-  "download": "https://github.com/Elevated-Order-of-Morpheus/cha-aov-fvtt-en-thecursedfarm/releases/download/1.0.1/module.zip"
+  "download": "https://github.com/Elevated-Order-of-Morpheus/cha-aov-fvtt-en-thecursedfarm/releases/download/1.0.2/module.zip"
 }
-
