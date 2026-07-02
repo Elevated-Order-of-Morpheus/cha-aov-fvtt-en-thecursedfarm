@@ -1,3 +1,24 @@
-2026/06/30-13:25:56.958 2c04 Recovering log #641
-2026/06/30-13:25:56.960 2c04 Delete type=0 #641
-2026/06/30-13:25:56.960 2c04 Delete type=3 #640
+2026/07/02-05:52:02.562 9ac Recovering log #657
+2026/07/02-05:52:02.562 9ac Level-0 table #659: started
+2026/07/02-05:52:02.566 9ac Level-0 table #659: 120648 bytes OK
+2026/07/02-05:52:02.572 9ac Delete type=0 #657
+2026/07/02-05:52:02.572 9ac Delete type=3 #656
+2026/07/02-05:54:11.272 3154 Level-0 table #662: started
+2026/07/02-05:54:11.280 3154 Level-0 table #662: 241246 bytes OK
+2026/07/02-05:54:11.280 3154 Delete type=0 #660
+2026/07/02-05:54:11.286 3154 Manual compaction at level-0 from '!adventures!2MM9NvRmgRd79ZnY' @ 72057594037927935 : 1 .. '!adventures!2MM9NvRmgRd79ZnY' @ 0 : 0; will stop at '!adventures!2MM9NvRmgRd79ZnY' @ 13 : 1
+2026/07/02-05:54:11.286 3154 Compacting 2@0 + 0@1 files
+2026/07/02-05:54:11.292 3154 Generated table #663@0: 1 keys, 120687 bytes
+2026/07/02-05:54:11.292 3154 Compacted 2@0 + 0@1 files => 120687 bytes
+2026/07/02-05:54:11.294 3154 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/02-05:54:11.294 3154 Delete type=2 #659
+2026/07/02-05:54:11.294 3154 Delete type=2 #662
+2026/07/02-05:54:11.303 3154 Manual compaction at level-0 from '!adventures!2MM9NvRmgRd79ZnY' @ 13 : 1 .. '!adventures!2MM9NvRmgRd79ZnY' @ 0 : 0; will stop at (end)
+2026/07/02-05:54:11.303 3154 Manual compaction at level-1 from '!adventures!2MM9NvRmgRd79ZnY' @ 72057594037927935 : 1 .. '!adventures!2MM9NvRmgRd79ZnY' @ 0 : 0; will stop at '!adventures!2MM9NvRmgRd79ZnY' @ 15 : 1
+2026/07/02-05:54:11.303 3154 Compacting 1@1 + 1@2 files
+2026/07/02-05:54:11.309 3154 Generated table #664@1: 1 keys, 120687 bytes
+2026/07/02-05:54:11.309 3154 Compacted 1@1 + 1@2 files => 120687 bytes
+2026/07/02-05:54:11.310 3154 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/07/02-05:54:11.310 3154 Delete type=2 #525
+2026/07/02-05:54:11.310 3154 Delete type=2 #663
+2026/07/02-05:54:11.314 3154 Manual compaction at level-1 from '!adventures!2MM9NvRmgRd79ZnY' @ 15 : 1 .. '!adventures!2MM9NvRmgRd79ZnY' @ 0 : 0; will stop at (end)
